@@ -1,1 +1,1 @@
-### Peoples' Mode Classification deep CNN 
+### Peoples' Mood Classification deep CNN 
